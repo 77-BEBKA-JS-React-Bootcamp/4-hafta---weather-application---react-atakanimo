@@ -1,1 +1,1 @@
-https://react-weather-api-obeu0qce6-atakanimo.vercel.app/
+https://react-weather-api-5qif67t3u-atakanimo.vercel.app/
